@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+plotly
+cvxpy
+yfinance
+scikit-learn
+statsmodels
+jupyterlab
+numba
+dash
+pytest
+flake8
